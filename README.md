@@ -1,4 +1,3 @@
-![MasterHead](docs/SLR.png) 
 # Sign language Recognition 
 
 This repository contains the source code and resources for a Sign Language Recognition System. The goal of this project is to develop a computer vision system that can recognize and interpret sign language gestures in real-time.
