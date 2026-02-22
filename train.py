@@ -5,7 +5,7 @@ Description : This script trains a Sign Language Recognition model using hand ke
               It loads data from a CSV file, trains a neural network using TensorFlow/Keras,
               and saves both the HDF5 and TFLite versions of the trained model.
 
-Author      : Sam <sam@codingsamrat.com>
+Author      : John Paul Yamashita <johnyamashita211@gmail.com>
 Created     : May 26, 2023
 """
 
